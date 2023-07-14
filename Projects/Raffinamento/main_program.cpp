@@ -4,7 +4,6 @@ int main()
 {
 
     vector<Project::Cell2D> vectSupp;
-
     unsigned int numbercell0D;
     vector<Project::Cell0D> vectp;
     unsigned int numbercell1D;
